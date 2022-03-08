@@ -9,3 +9,6 @@ In this repo you can do the following
 - Install traefik ingress controller (Instruction are in ingress-deployment folder)
 
 - Install Hashicorp Vault  (Instruction are in vault-deployment folder)
+
+- Install Cert Manager (Instruction are in cert-manager)
+
