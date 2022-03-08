@@ -12,3 +12,5 @@ In this repo you can do the following
 
 - Install Cert Manager (Instruction are in cert-manager)
 
+
+For accessing the vault url we need to point vault DNS to ingress load balancer ip so that way we will be able to access this. 
