@@ -1,10 +1,9 @@
 # oci-oke-poc
-This repo is created for POC to create the Kubernetes on Oracle Cloud
-
-In this repo you can do the following 
+This repo is created for POC to create the Kubernetes on Oracle Cloud using terraform 
 
 
-- Create kubernetes cluster in Oracle Cloud 
+
+- Create kubernetes cluster in Oracle Cloud using terraform
 
 - Install traefik ingress controller (Instruction are in ingress-deployment folder)
 
